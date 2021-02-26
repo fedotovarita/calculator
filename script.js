@@ -74,8 +74,6 @@ buttons.addEventListener('click', e => {
         if (action == 'percent') {
             if (!displayedNum == '0' && previousKeyType !== 'percent') {
                 display.textContent = displayedNum / 100;
-            } else {
-                display.textContent = calculator.dataset.unchangeNumber / 100;
             }
             calculator.dataset.previousKeyType = 'percent';
             calculator.dataset.unchangeNumber = display.textContent;
