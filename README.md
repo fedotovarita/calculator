@@ -1,4 +1,6 @@
-Простой калькулятор на JavaScript. 
+# Калькулятор
+
+Простой калькулятор на JavaScript.
 Доступные операции: сложение, вычитание, умножение, деление.
 
-[Ссылка на опубликованный проект:] (https://fedotovarita.github.io/calculator/)
+[Ссылка на опубликованный проект](https://fedotovarita.github.io/calculator/)
