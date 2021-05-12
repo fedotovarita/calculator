@@ -1,0 +1,25 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Простой калькулятор на JavaScript. Доступные операции: сложение, вычитание, умножение, деление.",
+  "main": "script.js",
+  "dependencies": {
+    "eslint": "^7.20.0",
+    "jquery": "^3.5.1"
+  },
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fedotovarita/calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fedotovarita/calculator/issues"
+  },
+  "homepage": "https://github.com/fedotovarita/calculator#readme"
+}
